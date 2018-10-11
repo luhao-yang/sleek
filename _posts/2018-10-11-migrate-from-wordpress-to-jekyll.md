@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "migrate from Wordpress to Jekyll"
+title: "Migrate from Wordpress to Jekyll"
 featured-img: shane-rounce-205187
-categories: [Sample, Guides]
+categories: [general]
 ---
 
 For the past year, I have been using Wordpress to host my personal blogs which deployed on VPS from linode.com. The reason I did this is to enjoy the full control of a website while surfing the internet withour any restrictions from China GFW by setting up a Shadowsocks server on it.
 
-Now that I am in NZ now, it seems I don't need it anymore as it costs me money every hour, althought not much.
+Now that I am in NZ now, it seems I don't need it anymore as it costs me money every hour, although not much.
 
-I find the GitHub Pages is a best place for hosting the static site and Jekyll template engine happens to show me the feasibility of dynamic features with a bunch of plugins. So the answer to the question that whether I should migrate from Wordpress to Jekyll turns out to be,'Why not?'
+I find the GitHub Pages is the best place for hosting the static pages and Jekyll template engine happens to show me the feasibility of dynamic features with a bunch of plugins. So the answer to the question that whether I should migrate from Wordpress to Jekyll turns out to be, 'Why not?'
 
 Learn more about [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). 
 
