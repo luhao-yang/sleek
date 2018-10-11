@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Migrate from Wordpress to Jekyll"
-featured-img: shane-rounce-205187
+featured-img: w2j
 categories: [general]
 ---
 

@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Go Big Or Go Home
+title: Go Big or Go Home
 ---
