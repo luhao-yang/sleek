@@ -3,7 +3,7 @@ title: Luhao's blog # your site title
 author: luhao-yang # You :P
 description: > # Meta description of Homepage
   This is Luhao's personal blog website.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://luhao-yang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
